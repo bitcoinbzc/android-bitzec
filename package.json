@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cryptoforge/zero-mobile.git"
+    "url": "git+https://github.com/bitzec/android-bitzec.git"
   },
   "author": "CryptoForge <cryptoforge.cc@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Cryptoforge/zero-mobile/issues"
   },
-  "homepage": "https://zerocurrency.io",
+  "homepage": "https://bitzec.github.io",
   "devDependencies": {
     "autoprefixer": "^7.1.3",
     "axios": "^0.17.1",

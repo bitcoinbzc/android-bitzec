@@ -38,12 +38,12 @@ class RecoverWalletPage extends React.Component {
         <div style={{padding: '12px 12px 0 12px', textAlign: 'center'}}>
           <p>BZC Wallet v{VERSION}</p>
           <br/>
-          <p>Author: Bitzec Team</p>
-          <p>Made for BZC</p>
+          <p>Author: This is the binary digit zero-knowledge electronic currency</p>
+          <p>Bitzec BZC</p>
           <p>Found a bug? File it &nbsp;
             <a
               href='#'
-              onClick={() => window.open('https://github.com/zerocurrencycoin/zero-mobile-wallet/issues', '_system')}
+              onClick={() => window.open('https://github.com/bitzec/android-bitzec/issues', '_system')}
             >here</a>
           </p>
         </div>
