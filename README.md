@@ -8,7 +8,7 @@ Use node v6.15.1
 ## Setup instructions
 
 ```
-npm install -g yarn cordova@7.1.0
+npm install -g yarn cordova
 git clone https://github.com/bitzec/android-bitzec
 cd android-bitzec
 git checkout master
